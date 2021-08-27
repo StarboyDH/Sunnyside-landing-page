@@ -268,7 +268,7 @@ footer {
     header{
         height: 100vh;
         background-image: url("https://drive.google.com/uc?export=view&id=1OWecVb9VThASOMgS1iJ_VjHd3Jq9TJTz");
-        background-size: 100%;
+        background-size: 100% 100%;
         background-repeat: no-repeat;
     }
 
@@ -367,6 +367,8 @@ footer {
     #grph-5, #grph-6 {
         height: 90vh;
         background-position: center;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
     }
 
     #client-testimonials {
